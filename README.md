@@ -128,6 +128,8 @@ Curated list of Blockchain and Crytocurrency Resources in general
 * [deBitcoin](https://www.youtube.com/user/deBitcoin/videos)
 * [decentral.tv ](https://www.youtube.com/user/decentralTV/videos)
 * [Draper University ](https://www.youtube.com/user/TimothyDraper/videos)
+* [EtherCasts](https://www.youtube.com/user/EtherCasts)
+* [Ethereum Project](https://www.youtube.com/user/ethereumproject)
 * [EverydayCrpto](https://www.youtube.com/user/Cryptoeveryday/videos)
 * [Let's Talk Bitcoin ](https://www.youtube.com/user/LetsTalkBitcoinChan)
 * [MIT Bitcoin Club ](https://www.youtube.com/user/MITBitcoinClub/videos)
