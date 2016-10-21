@@ -119,6 +119,7 @@ Curated list of Blockchain and Crytocurrency Resources in general
 ###Youtube Channels
 * [Andreas Antonopolous](https://www.youtube.com/user/aantonop)
 * [Andy Ofiesh ](https://www.youtube.com/user/JellyBaby68/videos)
+* [Bitcoin and Cryptocurrency Technologies Online Course (Princeton)](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
 * [Bitcoin Embassy ](https://www.youtube.com/user/JellyBaby68/videos)
 * [Bitcoin Foundation ](https://www.youtube.com/user/BitcoinFoundation/videos)
 * [Bitcoin Wednesday ](https://www.youtube.com/channel/UCt-Po2gFQxiUngwJXh6s04w/videos)
