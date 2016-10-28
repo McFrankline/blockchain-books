@@ -57,6 +57,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin Primer](http://www.macroriskadvisors.com/layout/pdf/bitcoin%20primer%20BTC.pdf) - Macro Risk Advisors
 * [Bitcoin as Money?](http://www.bostonfed.org/economic/current-policy-perspectives/2014/cpp1404.pdf) - Stephanie Lo and J. Christina Wang
 * [Bitcoin](http://research.microsoft.com/pubs/156072/bitcoin.pdf) - Microsoft Research
+* [Enabling Blockchain Innovations with Pegged Sidechains](https://blockstream.com/sidechains.pdf) - Adam Back, Matt Corallo, Luke Dashjr, Mark Friedenbach, Gregory Maxwell, Andrew Miller, Andrew Poelstra, Jorge Timón, and Pieter Wuille
 
 ###Bitcoin 
 * [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.com/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1449374042/ref=sr_1_1?ie=UTF8&qid=1476978890&sr=8-1&keywords=Mastering+Bitcoin%3A+Unlocking+Digital+Cryptocurrencies) Andreas M.  Antonopoulos
