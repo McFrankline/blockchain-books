@@ -138,6 +138,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [How the Blockchain is Changing Money and Business (19 min)](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?language=en) - Don Tapscott
 * [Internet vs Bitcoin (3min):](https://www.youtube.com/watch?v=s0luLPVHkO4)
 * [Join The Bitcoin Revolution (4min):](https://www.youtube.com/watch?v=24ce5tV-pgg)
+* [TEDx, Crytpocurrencies like Bitcoin are coming, and it's a good thing (11min):](https://www.youtube.com/watch?v=0GL9PTQiqxw) - Juan Llanos
 * [Powerful Technology Transforming Society: (6min)](http://www.youtube.com/watch?v=YIVAluSL9SUA)
 * [Quick Introduction to Bitcoin (5min)](https://www.youtube.com/watch?v=slFuj5N4twc)
 * [Stefan Molyneux- Money, Power and Politics (30min):](https://www.youtube.com/watch?v=_bmlVqs9qSY)
