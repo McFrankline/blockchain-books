@@ -44,6 +44,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Fourth Industrial Revolution](https://www.amazon.com/Fourth-Industrial-Revolution-Klaus-Schwab/dp/1944835008/ref=sr_1_1?s=books&ie=UTF8&qid=1476984488&sr=1-1&keywords=The+Fourth+Industrial+Revolution) - Prof Klaus Schwab
 * [The Science of the Blockchain](https://www.amazon.com/Science-Blockchain-Inverted-Forest-Publishing/dp/1522751831/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=1522751831&pd_rd_r=FF7D9XVT7EPCACXH29Z8&pd_rd_w=JXBSj&pd_rd_wg=pcc0Z&psc=1&refRID=FF7D9XVT7EPCACXH29Z8) - Roger Wattenhofer
 * [ValueWeb: How FinTech firms are using mobile and blockchain technologies to create the Internet of Value](https://www.amazon.com/ValueWeb-Fintech-Blockchain-Technologies-Internet/dp/9814677175/ref=pd_sim_14_10?_encoding=UTF8&pd_rd_i=9814677175&pd_rd_r=BCCHSTJWGE32H74XN9GZ&pd_rd_w=2YGDw&pd_rd_wg=UB9kN&psc=1&refRID=BCCHSTJWGE32H74XN9GZ) -Chris Skinner
+* [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
 
 
 ### White papers
@@ -117,6 +118,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Smart Contracts: The Ultimate Guide To Blockchain Smart Contracts - Learn How To Use Smart Contracts For Cryptocurrency Exchange!](https://www.amazon.com/Smart-Contracts-Ultimate-Blockchain-Cryptocurrency-ebook/dp/B01LYK175F/ref=sr_1_2?ie=UTF8&qid=1476984876&sr=8-2&keywords=Smart+Contracts%3A+How+to+Use+Blockchain) - Terry Parker
 * [The Modern Ethereum](https://www.amazon.com/Modern-Ethereum-Ryan-Venter-ebook/dp/B01KIRQZ0S/ref=sr_1_1?ie=UTF8&qid=1476985723&sr=8-1&keywords=The+Modern+Ethereum) - Ryan Venter
 * [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
+* [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
 
 
 ### Infographics
