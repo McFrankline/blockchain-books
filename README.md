@@ -252,6 +252,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [OpenPublish](https://github.com/blockai-unofficial/openpublish)
 * [Open Assets Protocol](https://github.com/OpenAssets/open-assets-protocol)
 
-### Private Blockchain
+### Private Blockchains
+* [Corda](https://www.corda.net/)
 * [HyperLedger](https://www.hyperledger.org/)
 * [Openchain](https://www.openchain.com/)
