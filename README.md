@@ -99,6 +99,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Understanding Bitcoin: Cryptography, Engineering and Economics](https://www.amazon.com/Understanding-Bitcoin-Cryptography-Engineering-Economics/dp/1119019168/ref=pd_sim_14_16?_encoding=UTF8&pd_rd_i=1119019168&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Pedro Franco
 * [Virtual Billions: The Genius, the Drug Lord, and the Ivy League Twins behind the Rise of Bitcoin](https://www.amazon.com/Virtual-Billions-Genius-League-Bitcoin/dp/163388144X/ref=sr_1_1?ie=UTF8&qid=1476986258&sr=8-1&keywords=Virtual+Billions%3A+The+Genius) - Eric Geissinger
 * [Wildcat Currency](https://www.amazon.com/Wildcat-Currency-Virtual-Revolution-Transforming/dp/0300186134/ref=sr_1_1?ie=UTF8&qid=1476986207&sr=8-1&keywords=Wildcat+Currency) - Edward Castronova
+* [The Bitcoin Standard](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) - Saifedean Ammous
 
 ### Ethereum and Smart Contracts
 * [A Proof of Stake Design Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.43e2aeta8) - Vitalik Buterin
