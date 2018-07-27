@@ -153,6 +153,8 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Story of Genesis: (3min)](http://youtu.be/gD4llSr-Ik8)
 * [The future will be decentralized (14mins)](https://www.youtube.com/watch?v=97ufCT6lQcY) - Charles Hoskinson
 * [Xapo, the history of money (5 min):](http://youtu.be/IP0jCjyrew8)
+* [Masters of Blockchain (11 episodes)](http://mastersofblockchain.org/)
+
 
 ### Youtube Channels
 * [AirBitz](https://www.youtube.com/channel/UCJaTFo0_z9lEG_v7L_LT2pw/videos)
@@ -194,6 +196,10 @@ Curated list of blockchain and general cryptocurrency resources
 * [Introduction to Bitcoin and Decentralized Technology By Scott Driscoll](https://www.pluralsight.com/courses/bitcoin-decentralized-technology) - Pluralsight
 * [The Basics of Blockchain: A Beginner's Guide to Blockchain](https://www.udemy.com/the-basics-of-blockchain/) - Udemy
 * [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
+* [Blockchain for Finance Professionals](https://www.experfy.com/training/courses/blockchain-for-finance-professionals) - Experfy
+* [Blockchain Technology Fundamentals](https://www.experfy.com/training/courses/blockchain-technology-fundamentals) - Experfy
+
+
 
 
 ### Documentaries
