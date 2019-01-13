@@ -24,6 +24,7 @@ Curated list of blockchain and general cryptocurrency resources
 ### Blockchain Books
 * [Blockchain Explained: A Technology Guide to the Bitcoin and Cryptocurrency Fintech Revolution](https://www.amazon.com/Blockchain-Explained-Technology-Cryptocurrency-Revolution/dp/1535315946/ref=pd_sim_14_5?_encoding=UTF8&pd_rd_i=1535315946&pd_rd_r=615DFBPATQX6GX4RBPWP&pd_rd_w=96Va0&pd_rd_wg=M6xmm&psc=1&refRID=615DFBPATQX6GX4RBPWP) - R.J Simmons
 * [Blockchain Fast and Simple - What It Is, How It Works, Why It Matters: Understand the basics, join the revolution](https://www.amazon.com/Blockchain-Fast-Simple-Understand-revolution-ebook/dp/B01M1J671W/ref=sr_1_1?s=books&ie=UTF8&qid=1476984683&sr=1-1&keywords=Blockchain+Fast+and+Simple+-+What+It+Is%2C+How+It+Works%2C+Why+It+Matters%3A+Understand+the+basics%2C+join+the+revolution) - Pierro Martini
+* [The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them](https://www.amazon.com/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1633538001/) - Antony Lewis
 * [Cryptocurrency Investment: How to Invest in Cryptocurrencies and Make Money in the Long-term](https://www.amazon.com/dp/B07588PNMR) - Tamas Torok
 * [Blockchain Revolution: How the Technology behind Bitcoin Is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_sim_14_11?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Don and AlexTapscott
 * [Blockchain Revolution: The Ultimate Guide to Mastering Bitcoin and How to Use Blockchain for Your Benefit](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=pd_bxgy_14_img_3?_encoding=UTF8&pd_rd_i=1101980133&pd_rd_r=JMGHCB5WB1SFP0HYMK6E&pd_rd_w=uHeeo&pd_rd_wg=cburT&psc=1&refRID=JMGHCB5WB1SFP0HYMK6E) - Phil Stein
@@ -75,6 +76,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Bitcoin Basics](https://www.amazon.com/Bitcoin-Basics-Creating-Investing-Bitcoins/dp/1508478945/ref=pd_sim_14_4?_encoding=UTF8&pd_rd_i=1508478945&pd_rd_r=YMYPCM376H2JNJ9NVB6D&pd_rd_w=0gtr5&pd_rd_wg=iqdC9&psc=1&refRID=YMYPCM376H2JNJ9NVB6D) - Benjamin Tideas
 * [Bitcoin Decoded: Bitcoin Beginner's Guide to Mining and the Strategies to Make Money with Cryptocurrencies](https://www.amazon.com/Bitcoin-Decoded-Beginners-Strategies-Cryptocurrencies/dp/061595524X/ref=pd_sim_14_12?_encoding=UTF8&pd_rd_i=061595524X&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) -  Brett Combs,Tom Mitsoff
 * [Bitcoin For Dummies](https://www.amazon.com/Bitcoin-Dummies-Prypto/dp/1119076137/ref=pd_sim_14_30?_encoding=UTF8&pd_rd_i=1119076137&pd_rd_r=26RQGPJBS5V65WXKFS9Z&pd_rd_w=DJMVN&pd_rd_wg=E1guu&psc=1&refRID=26RQGPJBS5V65WXKFS9Z) - Prypto
+* [The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them](https://www.amazon.com/Basics-Bitcoins-Blockchains-Introduction-Cryptocurrencies/dp/1633538001/) - Antony Lewis
 * [Bitcoin Internals: A Technical Guide to Bitcoin](https://www.amazon.com/Bitcoin-Internals-Technical-Guide-ebook/dp/B00DG8EPT0/ref=sr_1_1?ie=UTF8&qid=1476985144&sr=8-1&keywords=Bitcoin+Internals%3A) - Chris Clark
 * [Bitcoin Step by Step for Beginners: How to Invest and Profit from Bitcoin Today!](https://www.amazon.com/Bitcoin-Step-Beginners-Invest-Profit-ebook/dp/B00K5RUKEE/ref=sr_1_1?ie=UTF8&qid=1476986366&sr=8-1&keywords=Bitcoin+Step+by+Step) - Leo Kallstrom
 * [Bitcoin The Future of Money](https://www.amazon.com/Bitcoin-future-money-Dominic-Frisby/dp/1783521023/ref=pd_sim_14_19?_encoding=UTF8&pd_rd_i=1783521023&pd_rd_r=KF66S03S94P6CMSN0K29&pd_rd_w=Dibne&pd_rd_wg=jRGoU&psc=1&refRID=KF66S03S94P6CMSN0K29) - Dominic Frisby
@@ -120,11 +122,14 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Modern Ethereum](https://www.amazon.com/Modern-Ethereum-Ryan-Venter-ebook/dp/B01KIRQZ0S/ref=sr_1_1?ie=UTF8&qid=1476985723&sr=8-1&keywords=The+Modern+Ethereum) - Ryan Venter
 * [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
 * [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
+* [A Gentle Introduction to Ethereum](http://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) - Bits on Blocks
+* [A Gentle Introduction to Smart Contracts](http://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) - Bits on Blocks
 
 
 ### Infographics
 - [Bitcoin's History 2008-2014](https://i.imgur.com/kVF3kFu.png)
 - [How a Transaction Works](https://i.imgur.com/fZyX3Od.jpg)
+- [Bitcoin's network in one infographic](https://bitsonblocks.net/2016/03/14/bitcoins-network-in-one-infographic/) - Bits on Blocks
 
 
 ### Talks
@@ -186,6 +191,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Introduction to Ethereum and Smart Contracts](https://www.youtube.com/watch?v=r7GVVk8v2Ik)
 * [BitcoinLectures.tv](http://bitcoinlectures.tv)
 
+
 ### Courses
 * [Bitcoin and Cryptocurrency Technologies ](https://www.coursera.org/learn/cryptocurrency) - Princeton University
 * [Bitcoin or How I learned to stop worrying and love Crypto ](https://www.udemy.com/bitcoin-or-how-i-learned-to-stop-worrying-and-love-crypto/#/) - Udemy
@@ -197,8 +203,6 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Complete Ethereum Course](https://www.udemy.com/ethereum/?couponCode=DEVCON) - udemy
 * [Blockchain for Finance Professionals](https://www.experfy.com/training/courses/blockchain-for-finance-professionals) - Experfy
 * [Blockchain Technology Fundamentals](https://www.experfy.com/training/courses/blockchain-technology-fundamentals) - Experfy
-
-
 
 
 ### Documentaries
