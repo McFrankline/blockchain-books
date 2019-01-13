@@ -122,8 +122,8 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Modern Ethereum](https://www.amazon.com/Modern-Ethereum-Ryan-Venter-ebook/dp/B01KIRQZ0S/ref=sr_1_1?ie=UTF8&qid=1476985723&sr=8-1&keywords=The+Modern+Ethereum) - Ryan Venter
 * [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
 * [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
-* [A Gentle Introduction to Ethereum](http://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) - Bits on Blocks
-* [A Gentle Introduction to Smart Contracts](http://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) - Bits on Blocks
+* [A Gentle Introduction to Ethereum](https://bitsonblocks.net/2016/10/02/gentle-introduction-ethereum/) - Bits on Blocks
+* [A Gentle Introduction to Smart Contracts](https://bitsonblocks.net/2016/02/01/a-gentle-introduction-to-smart-contracts/) - Bits on Blocks
 
 
 ### Infographics
