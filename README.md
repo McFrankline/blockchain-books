@@ -124,6 +124,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [The Modern Ethereum](https://www.amazon.com/Modern-Ethereum-Ryan-Venter-ebook/dp/B01KIRQZ0S/ref=sr_1_1?ie=UTF8&qid=1476985723&sr=8-1&keywords=The+Modern+Ethereum) - Ryan Venter
 * [TurboEthereum Guide](https://www.gitbook.com/book/gavofyork/turboethereum/details) - Gavin Wood
 * [Building Ethereum ĐApps](https://www.manning.com/books/building-ethereum-dapps) -Roberto Infante
+* [Mastering Ethereum] (https://dl.ebooksworld.ir/motoman/Mastering_Ethereum_Andreas.M.Antonopoulos.www.EBooksWorld.ir.pdf) - Andreas M. Antonopoulos, Dr. Gavin Wood 
 
 
 ### Infographics
