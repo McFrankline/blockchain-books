@@ -205,6 +205,7 @@ Curated list of blockchain and general cryptocurrency resources
 * [Blockchain for Finance Professionals](https://www.experfy.com/training/courses/blockchain-for-finance-professionals) - Experfy
 * [Blockchain Technology Fundamentals](https://www.experfy.com/training/courses/blockchain-technology-fundamentals) - Experfy
 * [Introduction to Digital Currencies](https://www.unic.ac.cy/blockchain/free-mooc/) - University of Nicosia
+* [IBM Blockchain Certification Course](https://intellipaat.com/blockchain-training-course/) - Intellipaat
 
 
 ### Documentaries
